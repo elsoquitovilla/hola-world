@@ -1,6 +1,51 @@
-numero=int(input("ingrese un numero a saber su tabla de multiplicar"))
+numero=int(input("ingrese el primer numero para operar "))
+numero1=int(input("ingrese el segundo numero para operar "))
 
-print("1 X ",numero," =",1*numero)
-git config --global user.email "oscar.villanueva2020@twk.cl"
-git config --global user.name "elsoquitovilla"
+#Multiplicacion
+print(numero," X ",numero1," =",numero*numero1)
+print(numero," X ",numero1," =",numero*numero1)
+print(numero," X ",numero1," =",numero*numero1)
+print(numero," X ",numero1," =",numero*numero1)
+print(numero," X ",numero1," =",numero*numero1)
+print(numero," X ",numero1," =",numero*numero1)
+print(numero," X ",numero1," =",numero*numero1)
+print(numero," X ",numero1," =",numero*numero1)
+print(numero," X ",numero1," =",numero*numero1)
+print(numero," X ",numero1," =",numero*numero1)
+#Suma
+print(numero," + ",numero1," =",numero+numero1)
+print(numero," + ",numero1," =",numero+numero1)
+print(numero," + ",numero1," =",numero+numero1)
+print(numero," + ",numero1," =",numero+numero1)
+print(numero," + ",numero1," =",numero+numero1)
+print(numero," + ",numero1," =",numero+numero1)
+print(numero," + ",numero1," =",numero+numero1)
+print(numero," + ",numero1," =",numero+numero1)
+print(numero," + ",numero1," =",numero+numero1)
+print(numero," + ",numero1," =",numero+numero1)
+#Resta
+print(numero," - ",numero1," =",numero-numero1)
+print(numero," - ",numero1," =",numero-numero1)
+print(numero," - ",numero1," =",numero-numero1)
+print(numero," - ",numero1," =",numero-numero1)
+print(numero," - ",numero1," =",numero-numero1)
+print(numero," - ",numero1," =",numero-numero1)
+print(numero," - ",numero1," =",numero-numero1)
+print(numero," - ",numero1," =",numero-numero1)
+print(numero," - ",numero1," =",numero-numero1)
+print(numero," - ",numero1," =",numero-numero1)
+#Division
+print(numero," / ",numero1," =",numero/numero1)
+print(numero," / ",numero1," =",numero/numero1)
+print(numero," / ",numero1," =",numero/numero1)
+print(numero," / ",numero1," =",numero/numero1)
+print(numero," / ",numero1," =",numero/numero1)
+print(numero," / ",numero1," =",numero/numero1)
+print(numero," / ",numero1," =",numero/numero1)
+print(numero," / ",numero1," =",numero/numero1)
+print(numero," / ",numero1," =",numero/numero1)
+print(numero," / ",numero1," =",numero/numero1)
+
+
+
 
