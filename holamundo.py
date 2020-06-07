@@ -24,3 +24,12 @@ print(nombre.lower()) #pasar a minuscula
 
 
 print("holamundo")
+
+inicio
+leer inversion_en_el_banco
+leer intereses
+condicion Si inversion en el banco>7000 entonces
+reinvertir
+sino
+no invierte
+
