@@ -1,25 +1,13 @@
-lista_numeros[1,2,3,4,5,6,7,8,9,10]
-#N=int(input(f"ingresa el numero del array an {N}"))
-print (N)
+lista_numeros=[1,2,3,4,5,6,7,8,9,10]
+print (lista_numeros)
 lista_vocales=["a","e","i","o","u"]
 
-lista_pares=[]
-lista_impares=[]
-
-numeros=lista_pares+lista_impares
-
-
-
-N=int(input("digite el numero del array an"))
-
-for N in range[1,N-1,1]:
-    if (l%2==0):
-        lista_pares.append(N)
-    else:
-        lista_impares.append(N)
-
-print("numeros pares",lista_pares)
-print("numeros impares",lista_impares)
+lista_numeros[1]="a"
+lista_numeros[3]="e"
+lista_numeros[5]="i"
+lista_numeros[7]="o"
+lista_numeros[9]="u"
+print("mutabilidad",lista_numeros)
 
 
 
